@@ -6,7 +6,7 @@ import './styles.scss'
 
 import { scrollTo } from '../utils';
 
-import Head_bg from '../assets/hero8.png'
+import Head_bg from '../assets/wow.png'
 import Headline from '../assets/headline_spandeb1.png'
 
 // google tag manager
